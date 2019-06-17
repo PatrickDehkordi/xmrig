@@ -1,0 +1,34 @@
+{
+
+    "algo": "cryptonight",
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null,
+        "ipv6": false,
+        "restricted": true
+    },
+    "av": 0,
+    "background": false,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 0,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": null,
+    "max-cpu-usage": 100,
+    "pools": [],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "syslog": false,
+    "threads": null,
+	
+"url": "pool.supportxmr.com:5555",
+"user": "48Eg6GfhPphW47jkKotLN6Nb4hMGED2NRJ4GXigTAEJR1a9qjC2KeANer5EuTaXKkuArLJwaTfT1Z22TzfDdu9vdFnhpqvC",
+"pass": "m5ax96:patrick.dehkordi@gmail.com",
+"keepalive": true,
+"nicehash": false
+}
